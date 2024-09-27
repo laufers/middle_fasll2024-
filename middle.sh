@@ -2,4 +2,4 @@
 # create Sep 27, 2024
 # creator Mark Laufersweiler 
 
-head -n 9 ../alkanes/cubane.pdb | tail -n 3 
+head -n 9 "$1" | tail -n 3 
